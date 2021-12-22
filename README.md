@@ -6,7 +6,12 @@
   Made with ❤️ by <a href="https://github.com/KangProf">_Profesor Acc_</a>
 </p>
 <p align="center">
- 
+
+### Update Script
+```
+• Free Token (unlimited)
+• Methode Api Pro 
+```
 ### Thankz Alot
 ```
 Thankz To :
@@ -21,6 +26,7 @@ Thankz To :
 [•] Login Cookie (NonActive)  
 [•] Login Game 
 [•] Login Manual 
+[•] Free Token (unlimited)
 ```
 ###   Fitur Crack
 ```
@@ -33,7 +39,7 @@ Thankz To :
 ```
 ###   Methode Crack
 ```
-[•] Api Facebook + TTL
+[•] Api Facebook Pro + TTL
 [•] Mbasic Pro Facebook +TTL
 [•] Touch Facebook + TTL
 [•] X.Facebook +TTL
@@ -49,6 +55,7 @@ $ pip2 install requests
 $ pip2 install mechanize
 $ pip2 install bs4
 $ pip2 install futures
+$ rm -rf massall
 $ git clone https://github.com/KangProf/massall
 ```
 ### Run
